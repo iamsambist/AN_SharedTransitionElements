@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SET</string>
+
+    <string name="item1Name">vegetables</string>
+    <string name="item1Des">Vegetables are the cornerstone of a healthy diet. Packed with vitamins, minerals, and fiber, they provide essential nutrients for our bodies. From leafy greens like spinach and kale to colorful fruits like tomatoes and carrots, vegetables offer a wide range of flavors and textures. Incorporating them into your daily meals can boost your immune system, improve digestion, and support overall well-being</string>
+
+
+    <string name="item2Name"> Soup </string>
+    <string name="item2Des"> Soup is a versatile and delicious dish that has been enjoyed by people for centuries. Whether it s a creamy tomato bisque, a hearty chicken noodle soup, or a spicy chili, soup offers a comforting and satisfying meal. Made with a variety of ingredients, including vegetables, meats, and grains, soup can be customized to suit any taste preference. Its a great way to warm up on a cold day, and its also packed with nutrients that can boost your health.</string>
+
+    <string name="item3Name">Noodles</string>
+    <string name="item3Des">Noodles are a versatile and delicious food enjoyed around the world. They come in various shapes, sizes, and textures, from delicate rice noodles to hearty wheat noodles. Whether served in a broth, stir-fried, or tossed in a sauce, noodles offer a satisfying and filling meal. They can be paired with a variety of ingredients, including meats, vegetables, and seafood, making them a customizable and adaptable food choice. From ramen to spaghetti, noodles have become a beloved staple in many cultures</string>
+</resources>
