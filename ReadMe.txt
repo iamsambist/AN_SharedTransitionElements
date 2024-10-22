@@ -1,3 +1,5 @@
+Before Implementing Transition Animation Build An Complete transition process with out animation than implement the transtion animation.
+
 To Share Transition Common Views We need 2 things?
 1. SharedTransitionScope - We gets it Through the SharedTransitionLayout 
 	that means Shared Transition layout must be the parent layout of both of screen where we gonna share animation for common views?
